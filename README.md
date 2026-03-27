@@ -1,4 +1,4 @@
-# Above-average-salary-detection-pipeline-
+airflow-pyspark-etl-salary-pipeline
 
 📌 Project Overview
 This project builds an end-to-end ETL pipeline to process employee salary data and identify employees earning above their department average. The pipeline uses PySpark for transformation and Apache Airflow for scheduling.
