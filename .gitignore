@@ -1,0 +1,12 @@
+# Ignore output data
+output/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Airflow logs
+logs/
+
+# Environment files
+.env
